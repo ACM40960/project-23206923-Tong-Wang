@@ -7,6 +7,7 @@ This project focuses on training an emotion detection model using a custom Convo
 ### Dataset
 
 The dataset used is the FER-2013 dataset from Kaggle. It consists of 48x48 pixel grayscale images, where the faces have been automatically aligned. The dataset is divided into training and testing subsets.
+The test set data and train set data are in the test branch and train branch respectively.
 
 ### Project Structure
 
